@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0a3d62,100:00D4FF&amp;height=200&amp;section=header&amp;text=Full%20Stack%20%26%20Sysadmin&amp;fontSize=36&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Developer%20%C2%B7%20Network%20Engineer%20%C2%B7%20System%20Administrator&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn" width="100%" />
-
-<br/>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00D4FF&height=200&section=header&text=Full%20Stack%20%26%20Sysadmin&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%C2%B7%20Network%20Engineer%20%C2%B7%20System%20Administrator&descAlignY=58&descSize=14&animation=fadeIn)](https://github.com/raphaelarn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Designing+secure+network+infrastructures;Linux+%7C+Windows+Server+%7C+Active+Directory;NestJS+%7C+Next.js+%7C+React+%7C+Node.js;Monitoring+with+Nagios+%26+EyesOfNetwork)](https://git.io/typing-svg)
 
@@ -34,37 +32,36 @@ const profile = {
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
 
 **Backend**
 
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0D1117)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00599C&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=0D1117)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00758F&labelColor=0D1117)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 
 **System & Network**
 
-![RedHat](https://img.shields.io/badge/RedHat-0D1117?style=flat-square&logo=redhat&logoColor=EE0000&labelColor=0D1117)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=E95420&labelColor=0D1117)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0D1117?style=flat-square&logo=windows&logoColor=0078D4&labelColor=0D1117)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0D1117?style=flat-square&logo=microsoft&logoColor=0078D4&labelColor=0D1117)
-![Nagios](https://img.shields.io/badge/Nagios-0D1117?style=flat-square&logo=nagios&logoColor=00A0D2&labelColor=0D1117)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+[![RedHat](https://skillicons.dev/icons?i=redhat)](https://redhat.com)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://microsoft.com)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117)
-![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26&labelColor=0D1117)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26&labelColor=0D1117)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
 
 <br/>
 
@@ -147,32 +144,27 @@ const profile = {
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelarn&amp;bg_color=0D1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=FFFFFF&amp;area=true&amp;area_color=00D4FF&amp;hide_border=true&amp;custom_title=Activit%C3%A9%20de%20contribution" width="95%" />
-
-</div>
-
-<br/>
-
-> Les stats ci-dessous se lisent comme une carte d'identité de mon activité GitHub —
-> chaque commit, chaque projet, chaque ligne de code compte.
+> Chaque ligne ici raconte quelque chose — un projet livré, une nuit de debug,
+> une feature qui tient en prod depuis des mois.
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raphaelarn&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=8B949E&amp;rank_icon=percentile&amp;include_all_commits=true&amp;count_private=true&amp;custom_title=En+chiffres" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelarn&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;text_color=8B949E&amp;langs_count=6&amp;custom_title=Langages+les+plus+utilis%C3%A9s" height="165" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raphaelarn&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=Activite+de+contribution)](https://github.com/raphaelarn)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelarn&amp;hide_border=true&amp;background=0D1117&amp;stroke=1C2128&amp;ring=00D4FF&amp;fire=00D4FF&amp;currStreakLabel=00D4FF&amp;sideLabels=8B949E&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;mode=weekly&amp;card_width=500" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelarn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=En+chiffres)](https://github.com/raphaelarn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelarn&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E&langs_count=6&custom_title=Langages)](https://github.com/raphaelarn)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=raphaelarn&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=8" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raphaelarn&hide_border=true&background=0D1117&stroke=1C2128&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&card_width=500)](https://github.com/raphaelarn)
+
+<br/>
+
+[![Trophées](https://github-profile-trophy.vercel.app/?username=raphaelarn&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8)](https://github.com/raphaelarn)
 
 </div>
 
@@ -186,13 +178,10 @@ const profile = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117)](https://github.com/raphaelarn)
-&nbsp;
-[![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26&labelColor=0D1117)](https://gitlab.com/raphaelarn)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://linkedin.com/in/anjaniaina-rayan-rakotoarimavo-4b03b7394)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117)](mailto:raphael.anjaniaina.arn@email.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/raphaelarn)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/raphaelarn)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anjaniaina-rayan-rakotoarimavo-4b03b7394)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:raphael.anjaniaina.arn@email.com)
 
 <br/>
 
@@ -203,5 +192,7 @@ const profile = {
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,50:0a3d62,100:0D1117&amp;height=100&amp;section=footer&amp;animation=fadeIn" width="100%" />
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0a3d62,100:0D1117&height=100&section=footer&animation=fadeIn)](https://github.com/raphaelarn)
+
 </div>
