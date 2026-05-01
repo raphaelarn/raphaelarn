@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00D4FF&height=200&section=header&text=Full%20Stack%20%26%20Sysadmin&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20·%20Network%20Engineer%20·%20System%20Administrator&descAlignY=58&descSize=14&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0a3d62,100:00D4FF&amp;height=200&amp;section=header&amp;text=Full%20Stack%20%26%20Sysadmin&amp;fontSize=36&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Developer%20%C2%B7%20Network%20Engineer%20%C2%B7%20System%20Administrator&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -113,7 +113,7 @@ const profile = {
 **Surveillance Système** — savoir avant que ça casse
 
 ```
-  Tous les serveurs & équipements réseau
+  Tous les serveurs + équipements réseau
               │
               ▼
   [ Nagios / EyesOfNetwork ]  ──  surveille en temps réel
@@ -149,7 +149,7 @@ const profile = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelarn&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=Activit%C3%A9%20de%20contribution" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelarn&amp;bg_color=0D1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=FFFFFF&amp;area=true&amp;area_color=00D4FF&amp;hide_border=true&amp;custom_title=Activit%C3%A9%20de%20contribution" width="95%" />
 
 </div>
 
@@ -162,17 +162,17 @@ const profile = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raphaelarn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=En+chiffres" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=raphaelarn&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=8B949E&amp;rank_icon=percentile&amp;include_all_commits=true&amp;count_private=true&amp;custom_title=En+chiffres" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelarn&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E&langs_count=6&custom_title=Langages+les+plus+utilisés" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelarn&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;text_color=8B949E&amp;langs_count=6&amp;custom_title=Langages+les+plus+utilis%C3%A9s" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelarn&hide_border=true&background=0D1117&stroke=1C2128&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&mode=weekly&card_width=500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelarn&amp;hide_border=true&amp;background=0D1117&amp;stroke=1C2128&amp;ring=00D4FF&amp;fire=00D4FF&amp;currStreakLabel=00D4FF&amp;sideLabels=8B949E&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;mode=weekly&amp;card_width=500" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=raphaelarn&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=raphaelarn&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=8" />
 
 </div>
 
@@ -203,5 +203,5 @@ const profile = {
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0a3d62,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,50:0a3d62,100:0D1117&amp;height=100&amp;section=footer&amp;animation=fadeIn" width="100%" />
 </div>
