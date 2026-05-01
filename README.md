@@ -10,34 +10,46 @@
 
 ---
 
-## Qui suis-je ?
-
-| Domaine | Technologies |
-|---|---|
-| Frontend | React.js · Next.js · JavaScript |
-| Backend | NestJS · Node.js · Python |
-| Systèmes | C · C++ |
-| Bases de données | PostgreSQL · MySQL |
-| Réseau | IP Routing · TCP/IP · VLAN · DNS · DHCP · VPN |
-| Administration | Active Directory · Nagios · EyesOfNetwork |
-| OS | RedHat · Ubuntu · Windows Server |
-| DevOps | Git · GitHub · GitLab · GitLab CI |
-
-<br/>
-
----
-
 ## Stack
 
 <br/>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,nestjs,nodejs,python,c,cpp&perline=8)](https://skillicons.dev)
+**— Frontend —**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,linux,redhat,ubuntu,bash,git,github&perline=8)](https://skillicons.dev)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
-[![My Skills](https://skillicons.dev/icons?i=gitlab,docker,vscode,windows&perline=8)](https://skillicons.dev)
+**— Backend —**
+
+[![nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+**— Bases de données —**
+
+[![postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![mysql](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+
+**— Système & Réseau —**
+
+[![redhat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://redhat.com)
+[![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![windows](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com)
+[![activedirectory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com)
+[![nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)](https://nagios.org)
+[![eyesofnetwork](https://img.shields.io/badge/EyesOfNetwork-1E90FF?style=for-the-badge&logo=eye&logoColor=white)](https://www.eyesofnetwork.com)
+
+**— DevOps —**
+
+[![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+[![gitlabci](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci)
 
 </div>
 
