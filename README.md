@@ -10,17 +10,18 @@
 
 ---
 
-```typescript
-const profile = {
-  dev         : ["React.js", "Next.js", "NestJS", "Node.js", "JavaScript", "Python"],
-  systems     : ["C", "C++"],
-  databases   : ["PostgreSQL", "MySQL"],
-  os          : ["RedHat", "Ubuntu", "Windows Server"],
-  network     : ["IP Routing", "TCP/IP", "VLAN", "DNS", "DHCP", "VPN"],
-  sysadmin    : ["Active Directory", "Nagios", "EyesOfNetwork", "GitLab CI"],
-  devops      : ["Git", "GitHub", "GitLab"],
-};
-```
+| Domaine | Technologies |
+|---|---|
+| Frontend | React.js · Next.js · JavaScript |
+| Backend | NestJS · Node.js · Python |
+| Systèmes | C · C++ |
+| Bases de données | PostgreSQL · MySQL |
+| Réseau | IP Routing · TCP/IP · VLAN · DNS · DHCP · VPN |
+| Administration | Active Directory · Nagios · EyesOfNetwork |
+| OS | RedHat · Ubuntu · Windows Server |
+| DevOps | Git · GitHub · GitLab · GitLab CI |
+
+---
 
 <br/>
 
