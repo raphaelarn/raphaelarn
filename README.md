@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&size=42&duration=5000&pause=2000&color=F8F9FA&center=true&vCenter=true&width=800&height=80&lines=RAPHAEL+ANJANIAINA;FULL+STACK+ENGINEER;SYSTEMS+ARCHITECT" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&size=42&duration=5000&pause=2000&color=F8F9FA&center=true&vCenter=true&width=800&height=80&lines=Anjaniaina+Rayan;FULL+STACK+ENGINEER;SYSTEMS+ARCHITECT" alt="Title" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=300&size=14&duration=4000&pause=1000&color=6C757D&center=true&vCenter=true&width=800&height=40&lines=Building+robust+architectures.;Mastering+.NET,+ASP.NET+%26+Distributed+Systems.;Bridging+code+and+infrastructure." alt="Subtitle" />
 
